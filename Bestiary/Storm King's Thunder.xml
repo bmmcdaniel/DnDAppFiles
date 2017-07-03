@@ -72,7 +72,7 @@
         </trait>
         <action>
             <name>Multiattack</name>
-            <text>The aboleth makes three tentacle attacks.</text>
+            <text>The crab makes two attacks with its claws.</text>
         </action>
         <action>
             <name>Claw</name>
